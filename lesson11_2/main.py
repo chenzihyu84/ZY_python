@@ -1,6 +1,6 @@
 
 import pyinputplus as pyip
-from tools import getStudents,savetoCSV
+from outter.tools import getStudents,savetoCSV
 
 
 #students:list[list] = getStudents()
